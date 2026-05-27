@@ -1,0 +1,55 @@
+# 🏎️ BMWMotors
+
+O pagină web interactivă și modernă dedicată pasionaților de automobile, realizată ca proiect colaborativ. Proiectul include secțiuni dedicate strategiei, prezentării modelelor și o interfață utilizator fluidă.
+
+Link-ul proiectului: [BMWMotors Live](https://dodonn786.github.io/BMWMotors/#strategie)
+
+---
+
+## 🚀 Tehnologii Utilizate
+
+În realizarea acestui proiect am folosit următoarele tehnologii:
+* **HTML5** – Pentru structurarea semantică a paginii web.
+* **CSS3** – Pentru stilizare, design responsiv (adaptabil pe mobile/desktop) și animații.
+* **JavaScript (JS)** – Pentru interactivitate și dinamismul elementelor din pagină.
+
+---
+
+## 👥 Echipa și Contribuții (Cine și ce a făcut)
+
+Acest proiect a fost realizat printr-o strânsă colaborare între doi developeri. Sarcinile au fost împărțite eficient pentru a asigura o calitate înaltă a codului și a designului:
+
+### 🧑‍💻 Dodon Daniel
+* **Rol principal:** Full-Stack Developer / Structură & Logică
+* **Contribuții:**
+  * Configurarea inițială a proiectului și a structurii de directoare.
+  * Implementarea structurii principale în **HTML5** pentru secțiunile cheie (inclusiv secțiunea *Strategie*).
+  * Scrierea logicii în **JavaScript** pentru funcționalitățile interactive ale paginii.
+  * Găzduirea proiectului pe GitHub Pages și configurarea deployment-ului.
+
+### 👩‍💻 Scripcăraș Evelina
+* **Rol principal:** UI/UX Designer / Frontend Developer
+* **Contribuții:**
+  * Crearea conceptului vizual, alegerea paletei de culori și a tipografiei potrivite brandului.
+  * Stilizarea avansată folosind **CSS3** (layout-uri, flexbox, grid).
+  * Asigurarea **responsivității** paginii (optimizarea pentru ecrane de telefoane, tablete și desktop-uri).
+  * Adăugarea de efecte vizuale (hover, tranziții și animații moderne).
+
+---
+
+## 🛠️ Caracteristici Cheie
+
+* **Design Responsiv:** Pagina se adaptează perfect pe orice tip de dispozitiv.
+* **Secțiune de Strategie Dedicată:** O prezentare clară și structurată a viziunii brandului.
+* **Navigare Fluidă (Smooth Scroll):** Trecerea lină între secțiunile paginii prin intermediul meniului (ancore web).
+* **Interfață Modernă:** Stil minimalist, curat, inspirat din industria auto premium.
+
+---
+
+## 📦 Cum se rulează proiectul local
+
+Dacă dorești să descarci și să rulezi acest proiect pe calculatorul tău, urmează acești pași:
+
+1. Clonează repository-ul:
+   ```bash
+   git clone [https://github.com/dodonn786/BMWMotors.git](https://github.com/dodonn786/BMWMotors.git)
